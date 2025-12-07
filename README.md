@@ -214,10 +214,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Stats
 
-![GitHub last commit](https://img.shields.io/github/last-commit/username/wonders-of-god-church)
-![GitHub issues](https://img.shields.io/github/issues/username/wonders-of-god-church)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/username/wonders-of-god-church)
-![GitHub stars](https://img.shields.io/github/stars/username/wonders-of-god-church)
+![GitHub last commit](https://img.shields.io/github/last-commit/mwakidenis/Church-Event-Management-System)
+![GitHub issues](https://img.shields.io/github/issues/mwakidenis/Church-Event-Management-System)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/mwakidenis/Church-Event-Management-System)
+![GitHub stars](https://img.shields.io/github/stars/mwakidenis/Church-Event-Management-System)
 
 ---
 
