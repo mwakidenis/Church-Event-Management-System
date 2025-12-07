@@ -1,5 +1,5 @@
 
-# ⛪ Wonders of God Church - Digital Sanctuary💒
+# ⛪ Wonders of God Church - Digital Sanctuary💒 
 
 [![React](https://img.shields.io/badge/React-18.3.1-blue?logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
