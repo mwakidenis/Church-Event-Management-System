@@ -231,7 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow)](https://wa.me/254798750585)
 
 
-[🌐 Visit Our Website](https://wondersofgodchurch.org) | [📧 Contact Us](mailto:info@wondersofgodchurch.org) | [🙏 Prayer Requests](mailto:prayer@wondersofgodchurch.org)
+[🌐 Visit Our Website](https://church-digital-system.vercel.app/) | [📧 Contact Us](mailto:info@wondersofgodchurch.org) | [🙏 Prayer Requests](mailto:prayer@wondersofgodchurch.org)
 
 </div>
 ```
