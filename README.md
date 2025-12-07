@@ -223,7 +223,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-### 🌟 "For where two or three gather in my name, there am I with them." - Matthew 18:20 🌟
+### 🌟 Colossians 3:23-24 (NIV)
+**"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters, since you know that you will receive an inheritance from the Lord as a reward. It is the Lord Christ you are serving.**" 🌟
 
 **Made with ❤️ by Mwaki Denis and 🙏 for the Glory of God**
 ##
