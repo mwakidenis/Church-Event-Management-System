@@ -226,6 +226,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### 🌟 "For where two or three gather in my name, there am I with them." - Matthew 18:20 🌟
 
 **Made with ❤️ by Mwaki Denis and 🙏 for the Glory of God**
+##
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow)](https://wa.me/254798750585)
+
 
 [🌐 Visit Our Website](https://wondersofgodchurch.org) | [📧 Contact Us](mailto:info@wondersofgodchurch.org) | [🙏 Prayer Requests](mailto:prayer@wondersofgodchurch.org)
 
