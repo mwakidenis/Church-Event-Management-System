@@ -65,7 +65,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/wonders-of-god-church.git
+   git clone https://github.com/mwakidenis/Church-Event-Management-System.git
    cd wonders-of-god-church
    ```
 
