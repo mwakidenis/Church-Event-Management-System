@@ -8,7 +8,7 @@
 
 > 🙏 A modern, responsive digital platform for Wonders of God Church, connecting our community through faith, worship, and fellowship.
 
-## 🌟 Features 
+## 🌟 Features
  
 ### ✅ Current Features
 - 🏠 **Homepage** - Welcome visitors with inspiring content and church information 
