@@ -11,7 +11,7 @@
 ## 🌟 Features
 
 ### ✅ Current Features
-- 🏠 **Homepage** - Welcome visitors with inspiring content and church information
+- 🏠 **Homepage** - Welcome visitors with inspiring content and church information 
 - 📖 **About Us** - Learn about our church's mission, vision, and values
 - 🎥 **Sermons & Media** - Watch and download our latest messages and audio content
 - 📅 **Events** - Stay updated with upcoming church events and activities
