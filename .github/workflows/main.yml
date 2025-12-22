@@ -2,7 +2,7 @@ name: Update Timestamp (Linked to Account)
 
 on:
   schedule:
-    - cron: "0 */45 * * *"   # every 45mins
+    - cron: "0,45 * * * *"   # every 45 minutes
   workflow_dispatch:         # allows manual trigger
 
 permissions:
@@ -28,12 +28,16 @@ jobs:
           # Overwrite the file with current UTC time
           echo "$TIMESTAMP" > "$TIMESTAMP_FILE"
 
+          # Copy timestamp to public folder for portfolio site
+          mkdir -p public
+          cp "$TIMESTAMP_FILE" public/
+
           # Configure Git
           git config user.name "mwakidenis"
           git config user.email "mwakidenice@gmail.com"
 
           # Stage changes
-          git add "$TIMESTAMP_FILE"
+          git add "$TIMESTAMP_FILE" public/
 
           # Commit changes; if no commit yet, create one; else amend last commit
           if ! git diff --cached --quiet; then
